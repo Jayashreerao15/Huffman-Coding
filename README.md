@@ -1,9 +1,13 @@
-# Huffman-Coding
+## EX.NO: 12 <br>
+## DATE:
+## <p align="center">HUFFMAN CODING</p>
 
-## Aim
+## Aim:
+
 To implement Huffman coding to compress the data using Python.
 
-## Software Required
+## Software Required:
+
 1. Anaconda - Python 3
 
 ## Algorithm:
@@ -25,10 +29,9 @@ Print the characters and its huffmancode.
 
 ## Program:
 
-*/ Developed by: Jayashree Rao V
-<br>
-Register Number: 212220230023 /*
+### Developed by: Jayashree Rao V
 
+### Register Number: 212220230023 
 
 ``` Python
 # Get the input String
